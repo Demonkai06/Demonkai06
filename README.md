@@ -1,1 +1,3 @@
-loadstring(game:HttpGet("https://pastefy.app/pDFMOKY4/raw"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/nootmaus/GrowAAGarden/refs/heads/main/mauscripts"))()
+
+Source: https://cheater.fun/hacks_roblox/10886-grow-a-garden-script.html
